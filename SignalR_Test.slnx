@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SignalR_Test.ConsoleClient/SignalR_Test.ConsoleClient.csproj" />
+  <Project Path="SignalR_Test.Server/SignalR_Test.Server.csproj" />
+</Solution>
